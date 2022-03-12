@@ -1,0 +1,87 @@
+|molecule_name  |color     |fasta_fn          |fasta_id|pdb_fn                    |chain|residue_range|pdb_offset|bead_size|em_residues_per_gaussian|rigid_body|super_rigid_body|chain_of_super_rigid_bodies|
+|Bld10          |blue      |BLD10_A8ID55.fasta|Bld10   |BLD10_1-68.pdb            |A    |1,68         |0         |10       |10                      |1         |1               |                           |
+|Bld10          |blue      |BLD10_A8ID55.fasta|Bld10   |BLD10_61-152_fitted.pdb   |A    |9,92         |60        |10       |10                      |2         |1               |                           |
+|Bld10          |blue      |BLD10_A8ID55.fasta|Bld10   |BEADS                     |     |153,190      |0         |30       |30                      |          |1               |                           |
+|Bld10          |blue      |BLD10_A8ID55.fasta|Bld10   |BLD10_191-232.pdb         |A    |1,42         |190       |10       |10                      |3         |1               |                           |
+|Bld10          |blue      |BLD10_A8ID55.fasta|Bld10   |BEADS                     |     |233,259      |0         |30       |30                      |          |1               |                           |
+|Bld10          |blue      |BLD10_A8ID55.fasta|Bld10   |BLD10_260-332.pdb         |A    |1,73         |259       |10       |10                      |4         |1               |                           |
+|Bld10          |blue      |BLD10_A8ID55.fasta|Bld10   |BEADS                     |     |333,369      |0         |30       |30                      |          |1               |                           |
+|Bld10          |blue      |BLD10_A8ID55.fasta|Bld10   |BLD10_370-411.pdb         |A    |1,42         |369       |10       |10                      |5         |1               |                           |
+|Bld10          |blue      |BLD10_A8ID55.fasta|Bld10   |BEADS                     |     |412,460      |0         |30       |30                      |          |1               |                           |
+|Bld10          |blue      |BLD10_A8ID55.fasta|Bld10   |BLD10_461-495.pdb         |A    |1,35         |460       |10       |10                      |6         |1               |                           |
+|Bld10          |blue      |BLD10_A8ID55.fasta|Bld10   |BEADS                     |     |496,509      |0         |30       |30                      |          |1               |                           |
+|Bld10          |blue      |BLD10_A8ID55.fasta|Bld10   |BLD10_510-537.pdb         |A    |1,28         |509       |10       |10                      |7         |1               |                           |
+|Bld10          |blue      |BLD10_A8ID55.fasta|Bld10   |BEADS                     |     |538,544      |0         |30       |30                      |          |1               |                           |
+|Bld10          |blue      |BLD10_A8ID55.fasta|Bld10   |BLD10_545-576.pdb         |A    |1,32         |544       |10       |10                      |8         |1               |                           |
+|Bld10          |blue      |BLD10_A8ID55.fasta|Bld10   |BEADS                     |     |577,586      |0         |30       |30                      |          |1               |                           |
+|Bld10          |blue      |BLD10_A8ID55.fasta|Bld10   |BLD10_587-628.pdb         |A    |1,42         |586       |10       |10                      |9         |1               |                           |
+|Bld10          |blue      |BLD10_A8ID55.fasta|Bld10   |BEADS                     |     |629,631      |0         |30       |30                      |          |1               |                           |
+|Bld10          |blue      |BLD10_A8ID55.fasta|Bld10   |BLD10_632-722.pdb         |A    |1,91         |631       |10       |10                      |10        |1               |                           |
+|Bld10          |blue      |BLD10_A8ID55.fasta|Bld10   |BEADS                     |     |723,757      |0         |30       |30                      |          |1               |                           |
+|Bld10          |blue      |BLD10_A8ID55.fasta|Bld10   |BLD10_758-806.pdb         |A    |1,49         |757       |10       |10                      |11        |1               |                           |
+|Bld10          |blue      |BLD10_A8ID55.fasta|Bld10   |BEADS                     |     |807,813      |0         |30       |30                      |          |1               |                           |
+|Bld10          |blue      |BLD10_A8ID55.fasta|Bld10   |BLD10_814-834.pdb         |A    |1,21         |813       |10       |10                      |12        |1               |                           |
+|Bld10          |blue      |BLD10_A8ID55.fasta|Bld10   |BEADS                     |     |835,841      |0         |30       |30                      |          |1               |                           |
+|Bld10          |blue      |BLD10_A8ID55.fasta|Bld10   |BLD10_842-862.pdb         |A    |1,21         |841       |10       |10                      |13        |1               |                           |
+|Bld10          |blue      |BLD10_A8ID55.fasta|Bld10   |BEADS                     |     |863,876      |0         |30       |30                      |          |1               |                           |
+|Bld10          |blue      |BLD10_A8ID55.fasta|Bld10   |BLD10_877-911.pdb         |A    |1,35         |876       |10       |10                      |14        |1               |                           |
+|Bld10          |blue      |BLD10_A8ID55.fasta|Bld10   |BEADS                     |     |912,918      |0         |30       |30                      |          |1               |                           |
+|Bld10          |blue      |BLD10_A8ID55.fasta|Bld10   |BLD10_919-960.pdb         |A    |1,42         |918       |10       |10                      |15        |1               |                           |
+|Bld10          |blue      |BLD10_A8ID55.fasta|Bld10   |BEADS                     |     |961,1009     |0         |30       |30                      |          |1               |                           |
+|Bld10          |blue      |BLD10_A8ID55.fasta|Bld10   |BLD10_1010-1030.pdb       |A    |1,21         |1009      |10       |10                      |16        |1               |                           |
+|Bld10          |blue      |BLD10_A8ID55.fasta|Bld10   |BEADS                     |     |1031,END     |0         |30       |30                      |          |1               |                           |
+
+|Bld10.1        |cyan      |BLD10_A8ID55.fasta|Bld10   |BEADS                     |     |1,3          |0         |30       |30                      |          |2               |                           |
+|Bld10.1        |cyan      |BLD10_A8ID55.fasta|Bld10   |BLD10_1-68.pdb            |B    |4,66         |0         |10       |10                      |1         |2               |                           |
+|Bld10.1        |cyan      |BLD10_A8ID55.fasta|Bld10   |BEADS                     |     |67,68        |0         |30       |30                      |          |2               |                           |
+|Bld10.1        |cyan      |BLD10_A8ID55.fasta|Bld10   |BLD10_61-152_fitted.pdb   |B    |101,184      |-32       |10       |10                      |2         |2               |                           |
+|Bld10.1        |cyan      |BLD10_A8ID55.fasta|Bld10   |BEADS                     |     |153,190      |0         |30       |30                      |          |2               |                           |
+|Bld10.1        |cyan      |BLD10_A8ID55.fasta|Bld10   |BLD10_191-232.pdb         |B    |1,42         |190       |10       |10                      |3         |2               |                           |
+|Bld10.1        |cyan      |BLD10_A8ID55.fasta|Bld10   |BEADS                     |     |233,259      |0         |30       |30                      |          |2               |                           |
+|Bld10.1        |cyan      |BLD10_A8ID55.fasta|Bld10   |BLD10_260-332.pdb         |B    |1,73         |259       |10       |10                      |4         |2               |                           |
+|Bld10.1        |cyan      |BLD10_A8ID55.fasta|Bld10   |BEADS                     |     |333,369      |0         |30       |30                      |          |2               |                           |
+|Bld10.1        |cyan      |BLD10_A8ID55.fasta|Bld10   |BLD10_370-411.pdb         |B    |1,42         |369       |10       |10                      |5         |2               |                           |
+|Bld10.1        |cyan      |BLD10_A8ID55.fasta|Bld10   |BEADS                     |     |412,460      |0         |30       |30                      |          |2               |                           |
+|Bld10.1        |cyan      |BLD10_A8ID55.fasta|Bld10   |BLD10_461-495.pdb         |B    |1,35         |460       |10       |10                      |6         |2               |                           |
+|Bld10.1        |cyan      |BLD10_A8ID55.fasta|Bld10   |BEADS                     |     |496,509      |0         |30       |30                      |          |2               |                           |
+|Bld10.1        |cyan      |BLD10_A8ID55.fasta|Bld10   |BLD10_510-537.pdb         |B    |1,28         |509       |10       |10                      |7         |2               |                           |
+|Bld10.1        |cyan      |BLD10_A8ID55.fasta|Bld10   |BEADS                     |     |538,544      |0         |30       |30                      |          |2               |                           |
+|Bld10.1        |cyan      |BLD10_A8ID55.fasta|Bld10   |BLD10_545-576.pdb         |B    |1,32         |544       |10       |10                      |8         |2               |                           |
+|Bld10.1        |cyan      |BLD10_A8ID55.fasta|Bld10   |BEADS                     |     |577,586      |0         |30       |30                      |          |2               |                           |
+|Bld10.1        |cyan      |BLD10_A8ID55.fasta|Bld10   |BLD10_587-628.pdb         |B    |1,42         |586       |10       |10                      |9         |2               |                           |
+|Bld10.1        |cyan      |BLD10_A8ID55.fasta|Bld10   |BEADS                     |     |629,631      |0         |30       |30                      |          |2               |                           |
+|Bld10.1        |cyan      |BLD10_A8ID55.fasta|Bld10   |BLD10_632-722.pdb         |B    |1,91         |631       |10       |10                      |10        |2               |                           |
+|Bld10.1        |cyan      |BLD10_A8ID55.fasta|Bld10   |BEADS                     |     |723,757      |0         |30       |30                      |          |2               |                           |
+|Bld10.1        |cyan      |BLD10_A8ID55.fasta|Bld10   |BLD10_758-806.pdb         |B    |1,49         |757       |10       |10                      |11        |2               |                           |
+|Bld10.1        |cyan      |BLD10_A8ID55.fasta|Bld10   |BEADS                     |     |807,813      |0         |30       |30                      |          |2               |                           |
+|Bld10.1        |cyan      |BLD10_A8ID55.fasta|Bld10   |BLD10_814-834.pdb         |B    |1,21         |813       |10       |10                      |12        |2               |                           |
+|Bld10.1        |cyan      |BLD10_A8ID55.fasta|Bld10   |BEADS                     |     |835,841      |0         |30       |30                      |          |2               |                           |
+|Bld10.1        |cyan      |BLD10_A8ID55.fasta|Bld10   |BLD10_842-862.pdb         |B    |1,21         |841       |10       |10                      |13        |2               |                           |
+|Bld10.1        |cyan      |BLD10_A8ID55.fasta|Bld10   |BEADS                     |     |863,876      |0         |30       |30                      |          |2               |                           |
+|Bld10.1        |cyan      |BLD10_A8ID55.fasta|Bld10   |BLD10_877-911.pdb         |B    |1,35         |876       |10       |10                      |14        |2               |                           |
+|Bld10.1        |cyan      |BLD10_A8ID55.fasta|Bld10   |BEADS                     |     |912,918      |0         |30       |30                      |          |2               |                           |
+|Bld10.1        |cyan      |BLD10_A8ID55.fasta|Bld10   |BLD10_919-960.pdb         |B    |1,42         |918       |10       |10                      |15        |2               |                           |
+|Bld10.1        |cyan      |BLD10_A8ID55.fasta|Bld10   |BEADS                     |     |961,1009     |0         |30       |30                      |          |2               |                           |
+|Bld10.1        |cyan      |BLD10_A8ID55.fasta|Bld10   |BLD10_1010-1030.pdb       |B    |1,21         |1009      |10       |10                      |16        |2               |                           |
+|Bld10.1        |cyan      |BLD10_A8ID55.fasta|Bld10   |BEADS                     |     |1031,END     |0         |30       |30                      |          |2               |                           |
+
+|Sas4           |red       |Sas4.fasta        |Sas4    |BEADS                     |     |1,519        |0         |30       |30                      |          |3               |                           |
+|Sas4           |red       |Sas4.fasta        |Sas4    |SAS4_520-642.pdb          |A    |1,123        |519       |10       |10                      |17        |3               |                           |
+|Sas4           |red       |Sas4.fasta        |Sas4    |BEADS                     |     |643,741      |0         |30       |30                      |          |3               |                           |
+|Sas4           |red       |Sas4.fasta        |Sas4    |SAS4_742-900.pdb          |A    |1,159        |741       |10       |10                      |18        |3               |                           |
+|Sas4           |red       |Sas4.fasta        |Sas4    |BEADS                     |     |901,1463     |0         |30       |30                      |          |3               |                           |
+|Sas4           |red       |Sas4.fasta        |Sas4    |SAS4_1464-1590.pdb        |A    |1,127        |1463      |10       |10                      |19        |3               |                           |
+|Sas4           |red       |Sas4.fasta        |Sas4    |BEADS                     |     |1591,END     |0         |30       |30                      |          |3               |                           |
+|Sas4.1         |orange    |Sas4.fasta        |Sas4    |BEADS                     |     |1,519        |0         |30       |30                      |          |4               |                           |
+|Sas4.1         |orange    |Sas4.fasta        |Sas4    |SAS4_520-642_B.pdb        |A    |1,123        |519       |10       |10                      |20        |4               |                           |
+|Sas4.1         |orange    |Sas4.fasta        |Sas4    |BEADS                     |     |643,741      |0         |30       |30                      |          |4               |                           |
+|Sas4.1         |orange    |Sas4.fasta        |Sas4    |SAS4_742-900_B.pdb        |A    |1,159        |741       |10       |10                      |21        |4               |                           |
+|Sas4.1         |orange    |Sas4.fasta        |Sas4    |BEADS                     |     |901,1463     |0         |30       |30                      |          |4               |                           |
+|Sas4.1         |orange    |Sas4.fasta        |Sas4    |SAS4_1464-1590_B.pdb      |A    |1,127        |1463      |10       |10                      |22        |4               |                           |
+|Sas4.1         |orange    |Sas4.fasta        |Sas4    |BEADS                     |     |1591,END     |0         |30       |30                      |          |4               |                           |
+
+
+
+
+
+
