@@ -1,0 +1,9 @@
+METRIC : rb0_acceptance : 0.3,0.5 : MonteCarlo_Acceptance_P
+METRIC : bead_acceptance0 : 0.4,0.5 : MonteCarlo_Acceptance_BallMover
+PARAM : max_rb_trans : rb0_acceptance : 0.1,1
+PARAM : max_rb_rot : rb0_acceptance : 0.1,0.5
+PARAM : max_bead_trans : bead_acceptance0 : 2,5
+COMMAND : /home/kartik/imp-clean/build/setup_environment.sh python -u crp_modeling_47.py 
+path : ./Optimization_data
+verbosity : 2
+cleanup : 0
